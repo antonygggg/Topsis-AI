@@ -6,8 +6,9 @@ import skcriteria.madm.closeness as cl
 # By : Antony Gozes
 #
 
-# install skcriteria via pip
+# install skcriteria and beautifultable via pip
 # pip install -U scikit-criteria
+# pip install beautifultable
 
 def main():
     #
