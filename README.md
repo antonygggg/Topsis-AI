@@ -1,9 +1,9 @@
 # Topsis-AI
 
 
-implimation of ranking/recomendation system for any type of items
-that can be represented as numeric vector,
-with the abbility to complete missing data using ML techniques.
+implementation of ranking/recommendation system for any type of items
+that can be represented as a numeric vector,
+with the ability to complete missing data using ML techniques.
 
 see [data_with_missing_values.csv](data_with_missing_values.csv) and [output_example.txt](output_example.txt) for example.
 
